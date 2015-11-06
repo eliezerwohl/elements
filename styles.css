@@ -1,0 +1,27 @@
+ h1 {border:blue 10px solid;}
+
+ footer { position: absolute;
+        bottom:5px;
+
+
+ }
+ 
+ article {position:static;
+          
+
+ }
+
+ section { position: relative;
+          left:100px;
+ }
+
+
+ nav { 
+  position:fixed;
+  border:10px black solid;
+  
+  left: 1px;
+ 
+
+ }
+
